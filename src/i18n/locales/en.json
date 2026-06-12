@@ -1,0 +1,123 @@
+{
+  "common": {
+    "home": "Home",
+    "timeline": "Timeline",
+    "frameworks": "Frameworks",
+    "framework": "Framework",
+    "startLearning": "Start Learning",
+    "previous": "Previous",
+    "next": "Next",
+    "deepDive": "Deep Dive",
+    "background": "Background",
+    "catalyst": "Catalyst",
+    "consequences": "Consequences",
+    "legacy": "Legacy",
+    "summary": "Summary",
+    "keyIdeas": "Key Ideas",
+    "keywords": "Keywords",
+    "reflection": "Reflection",
+    "technology": "Technology",
+    "power": "Power",
+    "economy": "Economy",
+    "ideas": "Ideas",
+    "complete": "Complete",
+    "finish": "Finish",
+    "congratulations": "Congratulations",
+    "learnMore": "Learn More",
+    "tryAgain": "Try Again",
+    "submit": "Submit",
+    "reset": "Reset",
+    "explore": "Explore",
+    "understand": "Understand"
+  },
+  "landing": {
+    "tagline": "Begin Your Journey",
+    "title": "Understand 5,000 Years of History in 2 Hours.",
+    "subtitle": "Not dates. Not memorization. Just the story of how our world came to be.",
+    "feature1": {
+      "title": "11 Major Eras",
+      "description": "From Ancient Civilizations to the AI Era"
+    },
+    "feature2": {
+      "title": "Deep Insights",
+      "description": "Understand the forces that shaped our world"
+    },
+    "feature3": {
+      "title": "Active Learning",
+      "description": "Recall exercises and sequence challenges"
+    },
+    "feature4": {
+      "title": "Multiple Perspectives",
+      "description": "Technology, Power, Economy, Ideas"
+    },
+    "howItWorks": "How It Works",
+    "designedFor": "Designed for complete beginners. No prior knowledge required.",
+    "step1": {
+      "title": "Scroll Through Eras",
+      "desc": "Explore 11 major periods from ancient civilizations to today"
+    },
+    "step2": {
+      "title": "Deep Dive",
+      "desc": "Learn the background, catalysts, and consequences of each era"
+    },
+    "step3": {
+      "title": "Active Recall",
+      "desc": "Test your understanding with built-in exercises"
+    },
+    "step4": {
+      "title": "Frameworks",
+      "desc": "View history through technology, power, economy, and ideas"
+    },
+    "quote": "The only thing we learn from history is that we learn nothing from history.",
+    "quoteAttribution": "— Except when you learn with History Sense ✨",
+    "footer": "Understand the past. Navigate the future."
+  },
+  "timeline": {
+    "title": "The Journey Through Time",
+    "description": "Scroll through 11 major eras that shaped human civilization. Each card reveals a key turning point in history.",
+    "progress": "Progress",
+    "of": "of",
+    "eras": "eras",
+    "continueLearning": "Continue Learning",
+    "startFromBeginning": "Start from Beginning"
+  },
+  "recall": {
+    "prompt": "Summarize this era in one sentence.",
+    "placeholder": "Type your summary here...",
+    "example": "Example:",
+    "optional": "This exercise is optional. No grading."
+  },
+  "sequence": {
+    "title": "Sequence Challenge",
+    "instructions": "Arrange the following events in chronological order:",
+    "dragHint": "Drag and drop to reorder",
+    "check": "Check Order",
+    "correct": "Correct! Great job!",
+    "incorrect": "Not quite right. Try again!",
+    "showAnswer": "Show Answer"
+  },
+  "finish": {
+    "title": "Congratulations! You've Completed the Journey",
+    "description": "You've explored 5,000 years of human history. Here's what you've learned:",
+    "erasCompleted": "Eras Completed",
+    "timeSpent": "Time Spent",
+    "exercisesCompleted": "Exercises Completed",
+    "reflection": "Reflection",
+    "reflectionText": "History is not just about dates and events—it's about understanding how we got here. The patterns you've identified will help you make sense of the world today.",
+    "restart": "Start New Journey",
+    "exploreFrameworks": "Explore Frameworks",
+    "share": "Share Your Journey"
+  },
+  "framework": {
+    "title": "Historical Frameworks",
+    "description": "View history through different lenses to gain deeper understanding",
+    "technologyDescription": "How technology has shaped human civilization",
+    "powerDescription": "The evolution of political power structures",
+    "economyDescription": "Economic systems and their transformations",
+    "ideasDescription": "Intellectual and philosophical developments"
+  },
+  "language": {
+    "english": "English",
+    "chinese": "中文"
+  }
+}

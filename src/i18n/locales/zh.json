@@ -1,0 +1,123 @@
+{
+  "common": {
+    "home": "首页",
+    "timeline": "时间线",
+    "frameworks": "框架",
+    "framework": "框架",
+    "startLearning": "开始学习",
+    "previous": "上一页",
+    "next": "下一页",
+    "deepDive": "深入探索",
+    "background": "背景",
+    "catalyst": "催化剂",
+    "consequences": "结果",
+    "legacy": "遗产",
+    "summary": "总结",
+    "keyIdeas": "核心思想",
+    "keywords": "关键词",
+    "reflection": "反思",
+    "technology": "技术",
+    "power": "权力",
+    "economy": "经济",
+    "ideas": "思想",
+    "complete": "完成",
+    "finish": "完成",
+    "congratulations": "恭喜",
+    "learnMore": "了解更多",
+    "tryAgain": "再试一次",
+    "submit": "提交",
+    "reset": "重置",
+    "explore": "探索",
+    "understand": "理解"
+  },
+  "landing": {
+    "tagline": "开始你的旅程",
+    "title": "在 2 小时内理解 5000 年历史",
+    "subtitle": "不是日期，不是记忆，而是我们世界如何形成的故事",
+    "feature1": {
+      "title": "11 个主要时代",
+      "description": "从古代文明到人工智能时代"
+    },
+    "feature2": {
+      "title": "深入洞察",
+      "description": "理解塑造我们世界的力量"
+    },
+    "feature3": {
+      "title": "主动学习",
+      "description": "回忆练习和时间排序挑战"
+    },
+    "feature4": {
+      "title": "多维视角",
+      "description": "技术、权力、经济、思想"
+    },
+    "howItWorks": "如何运作",
+    "designedFor": "专为完全初学者设计，无需任何前置知识",
+    "step1": {
+      "title": "浏览时代",
+      "desc": "探索从古代文明到现代的 11 个主要时期"
+    },
+    "step2": {
+      "title": "深入探索",
+      "desc": "了解每个时代的背景、催化剂和结果"
+    },
+    "step3": {
+      "title": "主动回忆",
+      "desc": "通过内置练习测试你的理解"
+    },
+    "step4": {
+      "title": "框架视角",
+      "desc": "从技术、权力、经济和思想角度看待历史"
+    },
+    "quote": "我们从历史中学到的唯一东西是我们从历史中学不到任何东西。",
+    "quoteAttribution": "—— 除非你使用 History Sense 学习 ✨",
+    "footer": "理解过去，导航未来"
+  },
+  "timeline": {
+    "title": "时间之旅",
+    "description": "浏览塑造人类文明的 11 个主要时代。每张卡片揭示历史上的一个关键转折点。",
+    "progress": "进度",
+    "of": "共",
+    "eras": "时代",
+    "continueLearning": "继续学习",
+    "startFromBeginning": "从头开始"
+  },
+  "recall": {
+    "prompt": "用一句话总结这个时代。",
+    "placeholder": "在这里输入你的总结...",
+    "example": "示例：",
+    "optional": "此练习为可选，不评分。"
+  },
+  "sequence": {
+    "title": "时间排序挑战",
+    "instructions": "按时间顺序排列以下事件：",
+    "dragHint": "拖放重新排序",
+    "check": "检查顺序",
+    "correct": "正确！做得好！",
+    "incorrect": "不太对，请再试一次！",
+    "showAnswer": "显示答案"
+  },
+  "finish": {
+    "title": "恭喜！你已完成旅程",
+    "description": "你已经探索了 5000 年的人类历史。以下是你学到的内容：",
+    "erasCompleted": "已完成时代",
+    "timeSpent": "用时",
+    "exercisesCompleted": "已完成练习",
+    "reflection": "反思",
+    "reflectionText": "历史不仅仅是日期和事件——它关乎理解我们如何走到今天。你发现的模式将帮助你理解当今世界。",
+    "restart": "开始新旅程",
+    "exploreFrameworks": "探索框架",
+    "share": "分享你的旅程"
+  },
+  "framework": {
+    "title": "历史框架",
+    "description": "通过不同视角看待历史以获得更深入的理解",
+    "technologyDescription": "技术如何塑造人类文明",
+    "powerDescription": "政治权力结构的演变",
+    "economyDescription": "经济体系及其转型",
+    "ideasDescription": "知识和哲学发展"
+  },
+  "language": {
+    "english": "English",
+    "chinese": "中文"
+  }
+}
